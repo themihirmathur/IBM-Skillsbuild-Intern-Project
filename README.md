@@ -1,4 +1,4 @@
-# IBM Intern Project - Analysis of Pune Air Pollution
+# Analysis of Pune Air Pollution using IBM Cloud Technologies
 
 Presentation: [Mihir_IBM_Project_PPT.pdf](https://github.com/user-attachments/files/16458494/Mihir_IBM_Project_PPT_SB4C_AICTE.B4_2024-25_G7_G8.pdf)
 
