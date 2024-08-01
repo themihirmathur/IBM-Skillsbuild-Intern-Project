@@ -1,5 +1,7 @@
 # IBM Intern Project - Analysis of Pune Air Pollution
 
+Presentation: [Mihir_IBM_Project_PPT.pdf](https://github.com/user-attachments/files/16458494/Mihir_IBM_Project_PPT_SB4C_AICTE.B4_2024-25_G7_G8.pdf)
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
