@@ -91,10 +91,6 @@ The project successfully analyzed and visualized historical air pollution data f
 
 ![0](https://github.com/user-attachments/assets/5ec848bd-02ab-4ce7-bbb8-7fcdfe9aad8e)
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 ## Acknowledgments
 
 - IBM SkillBuild AI & Cloud Internship
